@@ -1,0 +1,12 @@
+D:\3 курс\6 семестр\Солопова\pr14_Прил1_Коршикова\bin\Debug\pr14_Прил1_Коршикова.exe.config
+D:\3 курс\6 семестр\Солопова\pr14_Прил1_Коршикова\bin\Debug\pr14_Прил1_Коршикова.exe
+D:\3 курс\6 семестр\Солопова\pr14_Прил1_Коршикова\bin\Debug\pr14_Прил1_Коршикова.pdb
+D:\3 курс\6 семестр\Солопова\pr14_Прил1_Коршикова\obj\Debug\pr14_Прил1_Коршикова.csproj.AssemblyReference.cache
+D:\3 курс\6 семестр\Солопова\pr14_Прил1_Коршикова\obj\Debug\pr14_Прил1_Коршикова.csproj.SuggestedBindingRedirects.cache
+D:\3 курс\6 семестр\Солопова\pr14_Прил1_Коршикова\obj\Debug\pr14_Прил1_Коршикова.Form1.resources
+D:\3 курс\6 семестр\Солопова\pr14_Прил1_Коршикова\obj\Debug\pr14_Прил1_Коршикова.Properties.Resources.resources
+D:\3 курс\6 семестр\Солопова\pr14_Прил1_Коршикова\obj\Debug\pr14_Прил1_Коршикова.csproj.GenerateResource.cache
+D:\3 курс\6 семестр\Солопова\pr14_Прил1_Коршикова\obj\Debug\pr14_Прил1_Коршикова.csproj.CoreCompileInputs.cache
+D:\3 курс\6 семестр\Солопова\pr14_Прил1_Коршикова\obj\Debug\pr14_Прил1_Коршикова.exe
+D:\3 курс\6 семестр\Солопова\pr14_Прил1_Коршикова\obj\Debug\pr14_Прил1_Коршикова.pdb
+D:\3 курс\6 семестр\Солопова\pr14_Прил1_Коршикова\obj\Debug\pr14_Прил1_Коршикова.PrintPreview.resources
